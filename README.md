@@ -11,6 +11,6 @@ Je suis **étudiant à l'IDEM**, passionné par l'informatique et en quête de n
 
 ## 📫 Me contacter
 
-- 🔗 [LinkedIn - Jayson Leducq](https://www.linkedin.com/in/jayson-leducq/) 
+- 🔗 [LinkedIn - Jayson Leducq](https://www.linkedin.com/feed/?trk=404_page) 
 
 Merci de votre visite et n'hésitez pas à explorer mes projets ou à me contacter pour des opportunités ou des collaborations !
