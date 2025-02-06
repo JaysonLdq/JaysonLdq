@@ -33,7 +33,7 @@ Bienvenue sur mon profil ! Je suis étudiant à l'IDEM, passionné par l'informa
 
 ## 📈 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonNom&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysonLdq&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🎯 Objectifs à court terme
 
