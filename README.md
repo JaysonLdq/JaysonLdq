@@ -1,16 +1,49 @@
-# 👋 Bonjour, bienvenue sur le profil de Jayson Leducq !
+# Bonjour, je suis Jayson Leducq 👋
 
-Je suis **étudiant à l'IDEM**, passionné par l'informatique et en quête de nouveaux défis. Sur mon GitHub, vous trouverez mes projets, mes expérimentations en développement, et d'autres contributions.
+Bienvenue sur mon profil ! Je suis étudiant à l'IDEM, passionné par l'informatique et en quête de nouveaux défis. Mon objectif est de devenir un développeur Full Stack.
 
-## 🚀 À propos de moi
+## 🧑‍💻 Compétences techniques
 
-- 🎓 Étudiant en informatique à [L'IDEM](https://www.lidem.eu)
-- 💻 Langages et framework que je maîtrise : Python, R, HTML/CSS, PHP, Javascript, React, Symfony
-- 🌱 Actuellement, je me concentre sur le développement **Full Stack**
-- 🔭 J'adore explorer de nouvelles technologies et apprendre constamment
+- **Langages de programmation** :
+  - Python (utilisation dans l'analyse de données, machine learning, automatisation)
+  - R (statistiques, visualisation de données)
+  - HTML, CSS, JavaScript (développement web)
+  - PHP (développement web)
+  
+- **Frameworks & Technologies** :
+  - React (Développement frontend)
+  - Symfony (Développement backend)
+  
+- **Outils de développement** :
+  - Git, GitHub (gestion de version)
+  - Docker (conteneurisation d'applications)
+  - VS Code (environnement de développement intégré)
+  
+- **Méthodes et concepts** :
+  - Algèbre linéaire
+  - Statistiques
+  - Machine Learning
+  - Conception de bases de données
+  - Méthodes Agiles
 
-## 📫 Me contacter
+## 📚 Projets en cours
 
-- 🔗 [LinkedIn - Jayson Leducq](https://www.linkedin.com/in/jayson-leducq-6716b4330/) 
+- **[Nom du projet]** : Description du projet (par exemple, une application de gestion de données en Python).
+- **[Nom du projet]** : Description du projet (par exemple, un site web dynamique avec React).
 
-Merci de votre visite et n'hésitez pas à explorer mes projets ou à me contacter pour des opportunités ou des collaborations !
+## 📈 Statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonNom&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🎯 Objectifs à court terme
+
+- Améliorer mes compétences en développement Full Stack.
+- Apprendre des frameworks comme Vue.js et Angular pour le frontend.
+- Explorer plus en profondeur l'intelligence artificielle et le machine learning.
+
+## 📫 Contact
+
+- Email : tonemail@example.com
+- LinkedIn : [Jayson Leducq - LinkedIn](https://www.linkedin.com/in/jayson-leducq-6716b4330/) 
+
+Merci de visiter mon profil !
