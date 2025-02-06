@@ -39,6 +39,6 @@ Bienvenue sur mon profil ! Je suis étudiant à l'IDEM, passionné par l'informa
 ## 📫 Contact
 
 - Email : jayson_34560@hotmail.fr
-- LinkedIn : [Jayson Leducq - LinkedIn]([https://www.linkedin.com/in/jayson-leducq-6716b4330/](https://www.linkedin.com/in/jayson-leducq-6716b4330/)) 
+- 🔗 [LinkedIn - Jayson Leducq](https://www.linkedin.com/in/jayson-leducq-6716b4330/) 
 
 Merci de visiter mon profil !
