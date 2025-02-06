@@ -5,7 +5,7 @@ Je suis **étudiant à l'IDEM**, passionné par l'informatique et en quête de n
 ## 🚀 À propos de moi
 
 - 🎓 Étudiant en informatique à [L'IDEM](https://www.lidem.eu)
-- 💻 Langages que je maîtrise : Python, R, HTML/CSS
+- 💻 Langages et framework que je maîtrise : Python, R, HTML/CSS, PHP, Javascript, React, Symfony
 - 🌱 Actuellement, je me concentre sur le développement **Full Stack**
 - 🔭 J'adore explorer de nouvelles technologies et apprendre constamment
 
